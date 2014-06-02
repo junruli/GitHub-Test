@@ -10,7 +10,7 @@ bose statistics we define g-functions in a similar way.
 
 There is a more accurate and general algorithm in lerch.py for Li_s(x),
 that works for all s>0, the polynomial approximations in this file are much
-faster however..
+faster however...
 
 """
 
